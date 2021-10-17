@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+ [![Github stats](https://github-readme-stats.vercel.app/api?username=kvyatkovskys&show_icons=true&theme=dark&count_private=true&include_all_commits=true)](#)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kvyatkovskys&layout=compact&theme=dark&langs_count=100)](#)
+
+- 👨‍💻 iOS Software Engineer at Pskov in Russia.
+- 💬 Ask me about anything. 
+- 📫 How to reach me: use bages below, pls.
+
+[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sergejkvyatkovskij@gmail.com)](mailto:sergejkvyatkovskij@gmail.com)
+
 <!--
 **kvyatkovskys/kvyatkovskys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
