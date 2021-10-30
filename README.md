@@ -1,7 +1,7 @@
 ### Hi there 👋
 
- [![Github stats](https://github-readme-stats.vercel.app/api?username=kvyatkovskys&show_icons=true&theme=dark&count_private=true&include_all_commits=true)](#)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kvyatkovskys&layout=compact&theme=dark&langs_count=100)](#)
+ [![Github stats](https://github-readme-stats.vercel.app/api?username=kvyatkovskys&show_icons=true&theme=light&count_private=true&include_all_commits=true)](#)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kvyatkovskys&layout=compact&theme=light&langs_count=100)](#)
 
 - 👨‍💻 iOS Software Engineer at Pskov in Russia.
 - 💬 Ask me about anything. 
