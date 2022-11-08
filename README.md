@@ -1,10 +1,10 @@
 ### Hi there 👋
 
- [![Github stats](https://github-readme-stats.vercel.app/api?username=kvyatkovskys&show_icons=true&theme=light&count_private=true&include_all_commits=true)](#)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kvyatkovskys&layout=compact&theme=light&langs_count=100)](#)
- 
- <summary><b>🔎 Github Profile Details</b></summary>
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kvyatkovskys" alt="kvyatkovskys"/>
+<a href="https://github.com/kvyatkovskys" style="width: 100%">
+  <img src="https://github-readme-stats.vercel.app/api?username=kvyatkovskys&show_icons=true&theme=radical" alt="" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvyatkovskys&layout=compact&theme=radical" alt="" height="150px"/>
+</a>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kvyatkovskys&theme=github_dark" alt="kvyatkovskys"/>
 
 - 👨‍💻 iOS Software Engineer at Pskov in Russia.
 - 💬 Ask me about anything. 
